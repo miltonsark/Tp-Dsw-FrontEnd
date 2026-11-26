@@ -2,6 +2,8 @@
 
 Proyecto Angular 20 del frontend.
 
+**App desplegada:** https://pauny-crm.vercel.app · **Documentación del proyecto:** [repo del grupo](https://github.com/miltonsark/TP-DSW-COM-304-Dominio-Sarkissian/blob/main/docs/README.md)
+
 ## Requisitos previos
 
 - Node.js LTS (recomendado 20.x)
